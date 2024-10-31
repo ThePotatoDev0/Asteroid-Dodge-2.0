@@ -1,1 +1,1 @@
-Ok so this is my first game I ever made in godot I think its ok definetly room for improovement but Im glade I figured out to use replit to import all the files because some of them were to big but yeah no bad overall - ThePotatoDev
+Ok so this is the first game I ever made in Godot I think it ok definitely room for improvement but I'm glad I figured out how to use Replit to import all the files because some of them were too big and ah yeah overall not bad - ThePotatoDev
