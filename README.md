@@ -1,0 +1,1 @@
+Ok so this is my first game I ever made in godot I think its ok definetly room for improovement but Im glade I figured out to use replit to import all the files because some of them were to big but yeah no bad overall - ThePotatoDev
